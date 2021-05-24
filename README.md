@@ -1,4 +1,13 @@
-# blog_football
-blog news about football
+# Blog football
+news blog about football
 
-Football News Blog on Python/Django - backend; and html, css, bootstrap - frontend.
+
+
+__Used tools:__    
+:heavy_check_mark: Python    
+:heavy_check_mark: Django [web framework]   
+:heavy_check_mark: JavaScript    
+:heavy_check_mark: HTML+CSS+Bootstrap    
+:heavy_check_mark: SQLite database    
+:heavy_check_mark: Django Debug Toolbar    
+:heavy_check_mark: Pillow    
