@@ -36,5 +36,5 @@ admin.site.register(News, NewsAdmin)
 admin.site.register(Category, CategoryAdmin)
 admin.site.register(Tag, TagsAdmin)
 
-admin.site.site_title = 'Управление новостями'
-admin.site.site_header = 'Управление новостями'
+admin.site.site_title = 'Admin changes'
+admin.site.site_header = 'Admin changes'
